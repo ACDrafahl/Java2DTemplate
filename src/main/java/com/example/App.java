@@ -1,6 +1,8 @@
+package com.example;
+
 import javax.swing.*;
 
-class App {
+public class App {
 
     private static void initWindow() {
         // create a window frame and set the title in the toolbar
